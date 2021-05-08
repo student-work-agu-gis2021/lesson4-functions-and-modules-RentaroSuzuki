@@ -81,7 +81,7 @@ for i in range(len(temp_data)):
 #     2. Count and assign to each variable how many times values 0, 1, 2, and 3 are present in the `temp_classes` list and print out the results below. In other words, assign the value of how many time `0` is in the list to the variable `zeros`, and so on. 
 #   
 
-# YOUR CODE HERE
+# YOUR CODE HERE 
 zeros=temp_classes.count(8)
 ones=temp_classes.count(1)
 twos=temp_classes.count(2)
