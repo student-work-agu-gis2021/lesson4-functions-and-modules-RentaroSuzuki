@@ -19,6 +19,15 @@
 # - Adding comments in your code and a docstring that explains how to use your `fahr_to_celsius` function (i.e., you should write the purpose of the function, parameters, and returned values)
 
 # YOUR CODE HERE
+def fahr_to_celsius(temp_fahrenheit):
+  """converts the input temperature fromdegrees Fahrenheit to degree Celsius
+  
+  parameter:temp_fahrenheit
+  return:converted_temp
+  """
+  
+  conberted_temp=(temp_fahrenheit-32)/1.8
+  return converted_temp
 
 # ### Problem 1 tests
 # 
