@@ -25,7 +25,7 @@
 
 
 # YOUR CODE HERE to define temp_classifier
-det temp_classifier(temp_celsius):
+def temp_classifier(temp_celsius):
   """
   accepts a temperature value in Celsius that woll be reclassified into integer numbers 0-3 based on following criteria
   

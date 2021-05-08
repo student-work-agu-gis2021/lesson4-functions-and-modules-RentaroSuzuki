@@ -26,7 +26,7 @@ def fahr_to_celsius(temp_fahrenheit):
   return:converted_temp
   """
   
-  conberted_temp=(temp_fahrenheit-32)/1.8
+  converted_temp=(temp_fahrenheit-32)/1.8
   return converted_temp
 
 # ### Problem 1 tests
@@ -37,7 +37,7 @@ def fahr_to_celsius(temp_fahrenheit):
 
 # ### Check your code
 print(fahr_to_celsius(48))
-print(fahr__tO_celsius(71))
+print(fahr_to_celsius(71))
 
 # - Make sure you used the given variable names
 # - Check that you have added necessary comments to your code
