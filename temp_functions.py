@@ -2,7 +2,7 @@
 THis file includes two functions
 """
 
-def faht_to_celsius(temp_fahrnheit):
+def fahr_to_celsius(temp_fahrenheit):
   """
   converts the input temperature from degrees Fahrenheit to degrees Celsius
   
@@ -10,8 +10,8 @@ def faht_to_celsius(temp_fahrnheit):
   return:converted_temp
   """
   
-  conberted_temp=(temp_fahtenheit-32)/1.8
-  return conberted__temp
+  converted_temp=(temp_fahrenheit-32)/1.8
+  return converted__temp
 
 def temp_classifier(temp_celsius):
   """
