@@ -47,10 +47,11 @@ det temp_classifier(temp_celsius):
 
 # 1. What is the class value for 16.5 degrees Celsius?
 # YOUR CODE HERE
-#
+print(temp_classifier(16.5))
+
 # 2. What is the class value for +2 degrees Celsius?
 # YOUR CODE HERE
-#
+print(temp_classifier(2))
 
 
 # ### Problem 2 tests
