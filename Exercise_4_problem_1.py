@@ -19,15 +19,7 @@
 # - Adding comments in your code and a docstring that explains how to use your `fahr_to_celsius` function (i.e., you should write the purpose of the function, parameters, and returned values)
 
 # YOUR CODE HERE
-def fahr_to_celsius(temp_fahrenheit):
-  """converts the input temperature fromdegrees Fahrenheit to degree Celsius
-  
-  parameter:temp_fahrenheit
-  return:converted_temp
-  """
-  
-  converted_temp=(temp_fahrenheit-32)/1.8
-  return converted_temp
+
 
 # ### Problem 1 tests
 # 
@@ -36,8 +28,7 @@ def fahr_to_celsius(temp_fahrenheit):
 # 2. What about 71° Fahrenheit in Celsius?
 
 # ### Check your code
-print(fahr_to_celsius(48))
-print(fahr_to_celsius(71))
+
 
 # - Make sure you used the given variable names
 # - Check that you have added necessary comments to your code
@@ -53,8 +44,7 @@ print(fahr_to_celsius(71))
 # Write your answers below:
 
 # YOUR ANSWER HERE. Write your answers as comments
-#1.Yes
-#2.Using functions makes the code easy to see and understand. And it also reduce the duplication of code.
+
 #
 #
 
