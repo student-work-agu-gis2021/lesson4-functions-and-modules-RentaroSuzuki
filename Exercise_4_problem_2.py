@@ -87,7 +87,9 @@ print("ok :)")
 #
 #
 # YOUR ANSWER ENDS HERE
-
+#・Yes.
+#・Yes.
+#・Yes.
 # #### Done!
 # 
 # That's it! Now you are ready to continue with  Problem 3.
