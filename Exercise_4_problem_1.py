@@ -53,7 +53,8 @@ print(fahr_to_celsius(71))
 # Write your answers below:
 
 # YOUR ANSWER HERE. Write your answers as comments
-
+#1.Yes
+#2.Using functions makes the code easy to see and understand. And it also reduce the duplication of code.
 #
 #
 
